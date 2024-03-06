@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravweb98&label=Profile%20views&color=0e75b6&style=flat" alt="dd" /> </p>
 
-- 👨‍💻 All of my projects are available at [[websolutionshub](https://www.websolutionshub.in/)
+- 👨‍💻 All of my projects are available at [websolutionshub](https://www.websolutionshub.in/)
 
 - 📫 How to reach me **test@gmaio.com**
 
