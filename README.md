@@ -1,26 +1,10 @@
-<!--### Hi there 👋
-
-
-**gauravweb98/gauravweb98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 📫 How to reach me **test@gmaio.com**
--->
 <h1 align="center">Hi 👋, I'm Gaurav Dudeja</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravweb98&label=Profile%20views&color=0e75b6&style=flat" alt="dd" /> </p>
 
 - 👨‍💻 All of my projects are available at [websolutionshub](https://www.websolutionshub.in/)
+  🔭 I’m currently working on fullstack projects<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,3 +24,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=gauravweb98&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gauravweb98&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravweb98&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=gauravweb98&theme=radical&no-frame=false&no-bg=true&margin-w=4)
